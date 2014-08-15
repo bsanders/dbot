@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 An IRC bot for dice rolling and initiative tracking, written in perl.
 =====================================================================
 
@@ -22,9 +21,3 @@ It uses the following modules (usually just an apt-get/yum/cpan away). These are
 * perl-Switch
 * perl-Net-IRC
 * perl-Text-Wrapper
-=======
-dbot
-====
-
-An IRC bot for use with chat-based RPG's
->>>>>>> 28f46e356d79505908c821048df51947b7afe707
